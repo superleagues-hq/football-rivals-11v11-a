@@ -88,5 +88,240 @@
       "OC_B": "Bengals",
       "OC_C": "Vikings"
     }
+  },
+  "rivalry_groups_enabled": true,
+  "rivalry_groups": {
+    "steelers": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Bengals"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Lions",
+          "Vikings"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Eagles"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Cardinals",
+          "Seahawks",
+          "Giants"
+        ]
+      }
+    ],
+    "bengals": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Steelers"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Vikings",
+          "Lions"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Giants"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Seahawks",
+          "Cardinals",
+          "Eagles"
+        ]
+      }
+    ],
+    "lions": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Vikings"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Steelers",
+          "Bengals"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Seahawks"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Giants",
+          "Eagles",
+          "Cardinals"
+        ]
+      }
+    ],
+    "vikings": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Lions"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Bengals",
+          "Steelers"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Cardinals"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Eagles",
+          "Giants",
+          "Seahawks"
+        ]
+      }
+    ],
+    "eagles": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Giants"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Seahawks",
+          "Cardinals"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Steelers"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Vikings",
+          "Lions",
+          "Steelers"
+        ]
+      }
+    ],
+    "giants": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Eagles"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Cardinals",
+          "Seahawks"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Bengals"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Lions",
+          "Vikings",
+          "Bengals"
+        ]
+      }
+    ],
+    "seahawks": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Cardinals"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Eagles",
+          "Giants"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Lions"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Bengals",
+          "Steelers",
+          "Lions"
+        ]
+      }
+    ],
+    "cardinals": [
+      {
+        "label": "Main Rival",
+        "teams": [
+          "Seahawks"
+        ]
+      },
+      {
+        "label": "Conference Opponents",
+        "teams": [
+          "Giants",
+          "Eagles"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Rival",
+        "teams": [
+          "Vikings"
+        ]
+      },
+      {
+        "label": "Out-of-Conference Opponents",
+        "teams": [
+          "Steelers",
+          "Bengals",
+          "Vikings"
+        ]
+      }
+    ]
   }
 }
