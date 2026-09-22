@@ -1,6 +1,6 @@
 {
   "league_slug": "football-rivals-11v11-a",
-  "display_name": "NFL Rivals 11v11 — League A",
+  "display_name": "NFL Rivals 11v11 \u2014 League A",
   "sport": "football",
   "format": "11v11",
   "platform": "sleeper",
@@ -14,5 +14,79 @@
     "giants": "Mikemooch2323",
     "seahawks": "Mikestev7",
     "cardinals": "kidrich44"
+  },
+  "rivalries": {
+    "steelers": {
+      "MR": "Bengals",
+      "CO_A": "Lions",
+      "CO_B": "Vikings",
+      "OCR": "Eagles",
+      "OC_A": "Cardinals",
+      "OC_B": "Seahawks",
+      "OC_C": "Giants"
+    },
+    "bengals": {
+      "MR": "Steelers",
+      "CO_A": "Vikings",
+      "CO_B": "Lions",
+      "OCR": "Giants",
+      "OC_A": "Seahawks",
+      "OC_B": "Cardinals",
+      "OC_C": "Eagles"
+    },
+    "lions": {
+      "MR": "Vikings",
+      "CO_A": "Steelers",
+      "CO_B": "Bengals",
+      "OCR": "Seahawks",
+      "OC_A": "Giants",
+      "OC_B": "Eagles",
+      "OC_C": "Cardinals"
+    },
+    "vikings": {
+      "MR": "Lions",
+      "CO_A": "Bengals",
+      "CO_B": "Steelers",
+      "OCR": "Cardinals",
+      "OC_A": "Eagles",
+      "OC_B": "Giants",
+      "OC_C": "Seahawks"
+    },
+    "eagles": {
+      "MR": "Giants",
+      "CO_A": "Seahawks",
+      "CO_B": "Cardinals",
+      "OCR": "Steelers",
+      "OC_A": "Vikings",
+      "OC_B": "Lions",
+      "OC_C": "Steelers"
+    },
+    "giants": {
+      "MR": "Eagles",
+      "CO_A": "Cardinals",
+      "CO_B": "Seahawks",
+      "OCR": "Bengals",
+      "OC_A": "Lions",
+      "OC_B": "Vikings",
+      "OC_C": "Bengals"
+    },
+    "seahawks": {
+      "MR": "Cardinals",
+      "CO_A": "Eagles",
+      "CO_B": "Giants",
+      "OCR": "Lions",
+      "OC_A": "Bengals",
+      "OC_B": "Steelers",
+      "OC_C": "Lions"
+    },
+    "cardinals": {
+      "MR": "Seahawks",
+      "CO_A": "Giants",
+      "CO_B": "Eagles",
+      "OCR": "Vikings",
+      "OC_A": "Steelers",
+      "OC_B": "Bengals",
+      "OC_C": "Vikings"
+    }
   }
 }
